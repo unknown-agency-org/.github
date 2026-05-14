@@ -43,8 +43,8 @@ Our organization is structured to separate client proprietary code from open-sou
 **Unknown Agency** operates as a technical partner for design studios and direct clients.
 
 * **Status:** 🟢 Accepting Select Projects
-* **Location:** Remote
-* **Contact:** [Insert Your Email Here]
+* **Location:** Remote | Based in Malaysia
+* **Contact:** hey@unknownagency.my
 
 ---
 <div align="center">
